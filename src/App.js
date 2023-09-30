@@ -7,7 +7,7 @@ import NestedGrid from "./Components/NestedGrid";
 function App() {
   return (
     <div className="wrapper">
-      <HomePage></HomePage>
+      <NestedGrid></NestedGrid>
     </div>
   );
 }
