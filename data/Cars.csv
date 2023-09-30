@@ -1,0 +1,34 @@
+car_name,Moteur,Nombre de cylindres,Nombre de places,Transmission,Type de véhicules,image_urls
+Mahindra Thar,Diesel,4,4.0,Automatic,SUV,https://www.largus.fr/images/images/2021-mahindra-thar-9.jpg
+Ferrari F8 Tributo,Petrol,8,2.0,Automatic,Coupe,https://ferrari-cdn.thron.com/delivery/public/thumbnail/ferrari/e9677798-7b8b-42b1-becf-387235c70b2a/bocxuw/std/488x325/e9677798-7b8b-42b1-becf-387235c70b2a?scalemode=auto
+Mercedes-Benz GLE,Diesel,6,5.0,Automatic,SUV,https://www.mercedes-benz.fr/content/dam/hq/passengercars/cars/gle/gle-suv-v167-fl-pi/modeloverview/01-2023/images/mercedes-benz-gle-suv-v167-modeloverview-696x392-01-2023.png
+BMW M4 Competition,Petrol,6,5.0,Automatic,Coupe,https://www.bmw.fr/content/dam/bmw/common/all-models/m-series/m4-coupe/2022/Highlights/bmw-4-series-coupe-m-automobiles-gallery-impressions-m4-csl-01_890.jpg
+BMW 8 Series,Petrol,8,4.0,Automatic,Coupe,https://www.bmw.fr/content/dam/bmw/common/all-models/8-series/coupe/2022/navigation/bmw-8series-coupe-modellfinder.png
+Mini Cooper Countryman,Petrol,4,5.0,Automatic,SUV,"https://hips.hearstapps.com/hmg-prod/images/2021-mini-cooper-countryman-101-1590517770.jpg?crop=0.689xw:0.773xh;0.156xw,0.227xh&resize=640:*"
+Mercedes-Benz A-Class Limousine,Diesel,4,5.0,Automatic,Sedan,https://stimg.cardekho.com/images/carexteriorimages/930x620/Mercedes-Benz/A-Class-Limousine/10868/1690455053374/front-left-side-47.jpg
+Maserati GranCabrio,Diesel,8,4.0,Automatic,Convertible,https://images.caradisiac.com/logos-ref/modele/modele--maserati-grancabrio/S7-modele--maserati-grancabrio.jpg
+Mercedes-Benz AMG GLE 53,Petrol,6,5.0,Automatic,Coupe,https://www.turbo.fr/sites/default/files/2019-03/mercedes-amg-gle-53-4matic-plus-fiche-presentation.png
+Mercedes-Benz EQC,Electric,0,5.0,Automatic,SUV,https://www.mercedes-benz.fr/passengercars/mercedes-benz-cars/models/eqc/_jcr_content/image.MQ6.2.2x.20211207155933.png
+Mercedes-Benz AMG C 43,Petrol,6,5.0,Automatic,Coupe,https://hips.hearstapps.com/hmg-prod/images/2022-mercedes-amg-c43-coupe-mmp-1-1638891696.jpg
+Hyundai Xcent Prime,CNG,4,5.0,Manual,Sedan,https://stimg.cardekho.com/images/carexteriorimages/930x620/Hyundai/Xcent-Prime/8810/1649747759335/front-left-side-47.jpg
+Jaguar I-Pace,Electric,0,5.0,Electric,SUV,https://www.topgear.com/sites/default/files/cars-car/image/2022/03/1-Jaguar-I-Pace.jpg
+Rolls Royce Dawn,Petrol,12,4.0,Automatic,Convertible,https://mediapool.bmwgroup.com/cache/P9/202305/P90503572/P90503572-farewell-to-dawn-the-very-last-dawn-to-be-produced-at-the-home-of-rolls-royce-goodwood-1650px.jpg
+BMW X5 M,Petrol,8,5.0,Automatic,SUV,https://www.bmw.fr/content/dam/bmw/common/all-models/m-series/x5m/2023/highlights/bmw-m-series-x5-m-gallery-image-impressionen-02_1920.jpg.asset.1673025861930.jpg
+Lamborghini Huracan EVO,Petrol,10,2.0,Automatic,Coupe,https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/model_detail/huracan/evo/2022/10_06/over/hura_evo_over_01_m.jpg
+Mini Cooper 3 DOOR,Petrol,4,4.0,Automatic,Hatchback,https://stimg.cardekho.com/images/carexteriorimages/930x620/Mini/3-DOOR/10593/1689937052417/front-left-side-47.jpg
+Mercedes-Benz CLS,Diesel,4,5.0,Automatic,Coupe,https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Mercedes-Benz_C_257_Wien_27_July_2020_JM_%28cropped%29.jpg/1200px-Mercedes-Benz_C_257_Wien_27_July_2020_JM_%28cropped%29.jpg
+Mahindra Bolero PikUp ExtraLong,Diesel,4,2.0,Manual,Pickup Truck,https://5.imimg.com/data5/SELLER/Default/2021/8/NV/UV/DC/3615062/mahindra-bolero-extra-long-pickup-truck.jpg
+Lexus LX,Petrol,8,8.0,Automatic,SUV,"https://hips.hearstapps.com/hmg-prod/images/lx-ultra-luxury-2-1634070183.jpg?crop=0.764xw:0.678xh;0.0497xw,0.185xh&resize=1200:*"
+Mercedes-Benz AMG GLC 43,Petrol,6,5.0,Automatic,SUV,https://stimg.cardekho.com/images/carexteriorimages/930x620/Mercedes-Benz/AMG-GLC-43/8592/1630668635399/front-left-side-47.jpg
+Mahindra Bolero Camper,Diesel,4,5.0,Manual,Pickup Truck,https://stimg.cardekho.com/images/carexteriorimages/930x620/Mahindra/Bolero-Camper/8805/1644241487331/front-left-side-47.jpg
+Tata Nexon EV Max,Electric,0,5.0,Electric,SUV,https://imgd.aeplcdn.com/1200x900/n/cw/ec/121341/nexon-ev-max-exterior-right-front-three-quarter-7.jpeg?isig=0&q=75
+Mahindra Bolero Neo,Diesel,3,7.0,Manual,SUV,https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/ExtraImages/20210716052353_Mahindra_Bolero_Neo_rear_tracking.jpg&w=726&h=482&q=75&c=1
+Mahindra Bolero Neo,Diesel,3,7.0,Manual,SUV,https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/ExtraImages/20210716052353_Mahindra_Bolero_Neo_rear_tracking.jpg&w=726&h=482&q=75&c=1
+Audi e-tron GT,Electric,0,5.0,Electric,Coupe,https://cdn.automobile-propre.com/uploads/2021/02/Audi-e-Tron-GT-29.jpg
+Maruti Swift Dzire Tour,CNG,4,5.0,Manual,Sedan,https://stimg.cardekho.com/images/carexteriorimages/930x620/Maruti/Swift-Dzire-Tour/8863/1664262619298/front-left-side-47.jpg
+Mercedes-Benz AMG A 35,Petrol,4,5.0,Automatic,Sedan,https://images.caradisiac.com/images/2/1/0/6/172106/S0-mercedes-amg-classe-a-35-un-prix-de-50-400-eur-569831.jpg
+Mercedes-Benz GLC Coupe,Diesel,4,5.0,Automatic,Coupe,https://i.gaw.to/content/photos/56/52/565245-le-mercedes-benz-glc-coupe-2024-suit-les-traces-de-son-frere.jpeg
+Toyota Glanza,Petrol,4,5.0,Automatic,Hatchback,https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Glanza/10231/1686812796183/front-left-side-47.jpg
+Porsche Cayenne Coupe,Petrol,8,4.0,Automatic,SUV,https://files.porsche.com/filestore/image/multimedia/none/e3-2nd-cayenne-coupe-modelimage-sideshot/model/d7bd2885-e03c-11ed-8101-005056bbdc38/porsche-model.png
+Honda City Hybrid,Petrol,4,5.0,Automatic,Sedan,https://stimg.cardekho.com/images/carexteriorimages/930x620/Honda/City-Hybrid-2023/9713/1677745369245/front-left-side-47.jpg
+Compass Trailhawk,Diesel,4,5.0,Automatic,SUV,https://www.jeep.com/content/dam/fca-brands/na/jeep/en_us/2023/compass/capability/desktop/MY23-Compass-Capability-Sticky-Container-Articulation-Desktop.jpg
