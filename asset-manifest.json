@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TP2-dev-web/static/css/main.58feed7d.css",
+    "main.js": "/TP2-dev-web/static/js/main.9e29cb93.js",
+    "index.html": "/TP2-dev-web/index.html",
+    "main.58feed7d.css.map": "/TP2-dev-web/static/css/main.58feed7d.css.map",
+    "main.9e29cb93.js.map": "/TP2-dev-web/static/js/main.9e29cb93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58feed7d.css",
+    "static/js/main.9e29cb93.js"
+  ]
+}
