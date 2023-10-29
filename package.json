@@ -1,6 +1,6 @@
 {
-  "homepage": "https://sidahmed-ben.github.io/TP2-dev-web",
-  "name": "tp1-react",
+  "homepage": ".",
+  "name": "tp2-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
